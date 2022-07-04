@@ -10,6 +10,7 @@ namespace TrainApp
             Console.WriteLine("Lauran terveiset");
             // Aadan terveiset
             //Erkin terveiset
+            // hetan terveiset
         }
     }
 }
