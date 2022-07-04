@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\laura\\.nuget\\packages\\": {}
+    "C:\\Users\\Aada\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laura\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
       "projectName": "TrainApp",
-      "projectPath": "C:\\Users\\laura\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj",
-      "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laura\\source\\repos\\TrainApp\\TrainApp\\obj\\",
+      "projectPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
+      "packagesPath": "C:\\Users\\Aada\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aada\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
