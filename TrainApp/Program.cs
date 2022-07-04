@@ -7,6 +7,7 @@ namespace TrainApp
         static void Main(string[] args)
         {
             Console.WriteLine("juna");
+            Console.WriteLine("Lauran terveiset");
         }
     }
 }
