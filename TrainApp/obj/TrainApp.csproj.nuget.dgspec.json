@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj": {}
+    "C:\\Users\\Erkki\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj": {
+    "C:\\Users\\Erkki\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
+        "projectUniqueName": "C:\\Users\\Erkki\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj",
         "projectName": "TrainApp",
-        "projectPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
-        "packagesPath": "C:\\Users\\Aada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\obj\\",
+        "projectPath": "C:\\Users\\Erkki\\source\\repos\\TrainApp\\TrainApp\\TrainApp.csproj",
+        "packagesPath": "C:\\Users\\Erkki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erkki\\source\\repos\\TrainApp\\TrainApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erkki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
