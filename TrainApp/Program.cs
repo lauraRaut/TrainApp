@@ -9,6 +9,8 @@ namespace TrainApp
             Console.WriteLine("juna");
             Console.WriteLine("Lauran terveiset");
             // Aadan terveiset
+            //Erkin terveiset
+            // hetan terveiset
         }
     }
 }
