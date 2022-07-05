@@ -1,0 +1,14 @@
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.exe
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.deps.json
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.runtimeconfig.json
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.runtimeconfig.dev.json
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.dll
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\bin\Debug\netcoreapp3.1\TrainApp.pdb
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.csproj.AssemblyReference.cache
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.AssemblyInfoInputs.cache
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.AssemblyInfo.cs
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.csproj.CoreCompileInputs.cache
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.dll
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.pdb
+C:\Users\Heta-LinneaKovanen\source\repos\TrainApp\TrainApp\TrainApp\obj\Debug\netcoreapp3.1\TrainApp.genruntimeconfig.cache

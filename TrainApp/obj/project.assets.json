@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Aada\\.nuget\\packages\\": {}
+    "C:\\Users\\Heta-LinneaKovanen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
+      "projectUniqueName": "C:\\Users\\Heta-LinneaKovanen\\source\\repos\\TrainApp\\TrainApp\\TrainApp\\TrainApp.csproj",
       "projectName": "TrainApp",
-      "projectPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\TrainApp.csproj",
-      "packagesPath": "C:\\Users\\Aada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aada\\source\\repos\\AWACADEMY\\KoulutusWeek5-MiniProjekti\\TrainApp\\TrainApp\\obj\\",
+      "projectPath": "C:\\Users\\Heta-LinneaKovanen\\source\\repos\\TrainApp\\TrainApp\\TrainApp\\TrainApp.csproj",
+      "packagesPath": "C:\\Users\\Heta-LinneaKovanen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Heta-LinneaKovanen\\source\\repos\\TrainApp\\TrainApp\\TrainApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Aada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Heta-LinneaKovanen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
