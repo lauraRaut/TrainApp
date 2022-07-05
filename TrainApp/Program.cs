@@ -9,13 +9,23 @@ namespace TrainApp
 {
     class Program
     {
+        //private static void GetSingleTrain()
+        //{
+        //    Console.WriteLine("jotain tähän");
+            
+        //}
         static void Main(string[] args)
         {
-            Console.WriteLine("juna");
+            string input = "trains/latest/1";
+            Train juna = TrainApi.GetSingleTrain(input);
+
+            Console.WriteLine(juna.trainNumber);
             Console.WriteLine("Lauran terveiset");
             // Aadan terveiset
             //Erkin terveiset
             // hetan terveiset
+
+
         }
        
     }
